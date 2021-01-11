@@ -1,2 +1,2 @@
-# yveschtepenko.github.io
+# ychtepenko.github.io
 Yves Chtepenko's blog
